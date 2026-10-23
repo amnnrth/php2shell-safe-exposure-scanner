@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software in your work, please cite the repository release."
+title: "PHP2Shell Safe Exposure Scanner"
+version: 1.0.0
+date-released: 2026-10-23
+license: MIT
+type: software
+abstract: "A non-exploit defensive exposure triage scanner for PHP2Shell CVE-2026-109618 and CVE-2026-109619."

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Generated reports and local assessment data
+php2shell_report.xlsx
+reports/
+*.report.xlsx
+scan-results/
+local-targets.txt
+php_inventory.csv
+*inventory-private*.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

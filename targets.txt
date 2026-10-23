@@ -1,0 +1,6 @@
+# Approved root domains / URLs, one per line.
+# Use only assets you own or have explicit written authorization to assess.
+# Optional wordlist discovery works best with root domains such as example.com.
+# Replace these examples locally; do not commit client/employer target lists.
+# company.example
+# https://portal.company.example
